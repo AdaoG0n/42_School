@@ -8,6 +8,9 @@
 [Get_next_line](https://github.com/AdaoG0n/42-get_next_line) |
   
 <!-- ![adamarqu's 42 stats](https://badge.mediaplus.ma/darkblue/adamarqu) -->
+
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/piscine.gif)
+
 <details>
 <summary> Piscine status </summary>
   
@@ -24,6 +27,8 @@
 | <a href="https://github.com/AdaoG0n/42_Piscine/tree/main/C Projects/C00">C06</a>   | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
 | <a href="https://github.com/AdaoG0n/42_Piscine/tree/main/C Projects/C01">C07</a>   | <img src="https://img.shields.io/badge/60%20%2F%20100%20%E2%98%85-success" /> |
 </details>
+
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/commoncore.gif)
 
 <details open>
 <summary> Common Core </summary>

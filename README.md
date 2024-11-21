@@ -55,23 +55,23 @@ Whether you're a new student or already part of the community, the experience at
 <summary>Testers</summary>
 
 ###### Norm
-| Norminette                                                                  | Autor       |
+| Norminette                                                                  | Author       |
 | :-------------------------------------------------------------------------- | :---        |
 |[Norminette](https://github.com/42School/norminette)                         | `42 School` |
 
 ###### Piscine
-| Mini Moulinette                                                             | Autor     |
+| Mini Moulinette                                                             | Author     |
 | :-------------------------------------------------------------------------- | :---      |
 | [Mini_Moulinette](https://github.com/k11q/mini-moulinette)                  | `k11q`    |
 
 ###### Common Core
-| All-In-One Testers                                                          | Autor           |
+| All-In-One Testers                                                          | Author           |
 | :-------------------------------------------------------------------------- | :---            |
 | [francinette](https://github.com/xicodomingues/francinette)                 | `xicodomingues` |
 | [42-Cursus-Tester](https://github.com/Abaker-Hype/42-Cursus-Tester)         | `Abaker-Hype`   |
 | [42-Tests](https://github.com/Kwevan/42-Tests)                              | `Kwevan`        |
 
-| Libft                                                                  | Autor           |
+| Libft                                                                  | Author           |
 | :--------------------------------------------------------------------- | :---            |
 | [francinette](https://github.com/xicodomingues/francinette)            | `xicodomingues` |
 | [libftTester](https://github.com/Tripouille/libftTester)               | `Tripouille`    |
@@ -80,30 +80,30 @@ Whether you're a new student or already part of the community, the experience at
 | [Libftest](https://github.com/jtoty/Libftest)                          | `jtoty`         |
 | [libft-war-machine](https://github.com/0x050f/libft-war-machine)       | `0x050f`        |
 
-| Born2beRoot                                                            | Autor        |
+| Born2beRoot                                                            | Author        |
 | :--------------------------------------------------------------------- | :---         |
 | [Born2BeRootTester](https://github.com/Pixailz/Born2BeRootTester)      | `Pixailz`    |
 | [Born2beroot-Tester](https://github.com/gemartin99/Born2beroot-Tester) | `gemartin99` |
 
-| Printf                                                                                               | Autor           |
+| Printf                                                                                               | Author           |
 | :--------------------------------------------------------------------------------------------------- | :---            |
 | [Debugging with main.c](https://github.com/Kuninoto/42_ft_printf/blob/master/lvl_1_ft_printf/main.c) | `Kuninoto`      |
 | [francinette](https://github.com/xicodomingues/francinette)                                          | `xicodomingues` |
 | [printfTester](https://github.com/Tripouille/printfTester)                                           | `Tripouille`    |
 | [ft_printf_tester](https://github.com/paulo-santana/ft_printf_tester)                                | `paulo-santana` |
 
-| Get_next_line                                                     | Autor           |
+| Get_next_line                                                     | Author           |
 | :---------------------------------------------------------------- | :---            |
 | [francinette](https://github.com/xicodomingues/francinette)       | `xicodomingues` |
 | [gnlTester](https://github.com/Tripouille/gnlTester)              | `Tripouille`    |
 | [gnl-station-tester](https://github.com/kodpe/gnl-station-tester) | `kodpe`         |
 
-| Tester                                                           | Autor           |
+| Tester                                                           | Author           |
 | :--------------------------------------------------------------- | :---            |
 | [francinette](https://github.com/xicodomingues/francinette)      | `xicodomingues` |
 | [minitalk-Tester](https://github.com/ThibaudM13/minitalk-Tester) | `ThibaudM13`    |
 
-| Pipex                                                             | Autor           |
+| Pipex                                                             | Author           |
 | :---------------------------------------------------------------- | :---            |
 | [pipexMedic](https://github.com/gmarcha/pipexMedic)               | `gmarcha`       |
 | [pipex-tester](https://github.com/vfurmane/pipex-tester)          | `vfurmane`      |
@@ -111,12 +111,12 @@ Whether you're a new student or already part of the community, the experience at
 | [francinette](https://github.com/xicodomingues/francinette)       | `xicodomingues` |
 
 
-| So_Long                                                                  | User            |
+| So_Long                                                                  | Author            |
 | :----------------------------------------------------------------------- | :---            |
 | [so_long_invalidator](https://github.com/Nuno-Jesus/so_long_invalidator) | `Nuno-Jesus`    |
 | [so_long_tester](https://github.com/augustobecker/so_long_tester)        | `augustobecker` |
 
-| Push Swap                                                                                                          | Autor        |
+| Push Swap                                                                                                          | Author        |
 | :----------------------------------------------------------------------------------------------------------------- | :---         |
 | [push_swap_visualizer](https://github.com/o-reo/push_swap_visualizer)                                              | `o-reo`      |
 | [push_swap_visualiser](https://github.com/Niimphu/push_swap_visualiser)                                            | `Niimphu`    |
@@ -126,29 +126,29 @@ Whether you're a new student or already part of the community, the experience at
 | [push_swap_leak_tester](https://github.com/IDC87/push_swap_leak_tester)                                            | `IDC87`      |
 | [Push Swap Visualizer and Number Generator](https://push-swap-visualizer.vercel.app)                               | `vercel`     |
 
-| Philosophers                                                                                | Autor         |
+| Philosophers                                                                                | Author         |
 | :------------------------------------------------------------------------------------------ | :---          | 
 | [philosophers-visualizer](https://nafuka11.github.io/philosophers-visualizer)               | `nafuka11`    |
 | [socrates](https://github.com/nesvoboda/socrates)                                           | `nesvoboda`   |
 | [philosophers_test](https://github.com/cacharle/philosophers_test)                          | `cacharle`    |
 | [Philosphers-42Project-Tester](https://github.com/newlinuxbot/Philosphers-42Project-Tester) | `newlinuxbot` |
 
-| Minishell                                                                 | Autor        |
+| Minishell                                                                 | Author        |
 | :------------------------------------------------------------------------ | :---         |
 | [42_minishell_tester](https://github.com/zstenger93/42_minishell_tester)  | `zstenger93` |
 | [minishell_tester](https://github.com/thallard/minishell_tester)          | `thallard`   |
 | [mpanic](https://github.com/ChewyToast/mpanic)                            | `ChewyToast` |
 
-| cub3D                                                                                           | Autor            |
+| cub3D                                                                                           | Author            |
 | :---------------------------------------------------------------------------------------------- | :---             |
 | [cub3D_map_tester](https://github.com/humblEgo/cub3D_map_tester)                                | `humblEgo`       |
 | [42_cub_tester](https://github.com/realisticDonut/42_cub_tester)                                | `realisticDonut` |
 
-| minirt                                                                      | Autor       |
+| minirt                                                                      | Author       |
 | :-------------------------------------------------------------------------- | :---        |
 | [minirt_mesh_converter](https://github.com/matboivin/minirt_mesh_converter) | `matboivin` |
 
-| irc                                                                    | Autor          |
+| irc                                                                    | Author          |
 | :--------------------------------------------------------------------- | :---           |
 | [irc-tester](https://github.com/bennamrouche/irc-tester)               | `bennamrouche` |
 

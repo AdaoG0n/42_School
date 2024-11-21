@@ -51,9 +51,122 @@ Whether you're a new student or already part of the community, the experience at
 ---
 </details>
 
+<details>
+<summary>Testers</summary>
+
+###### Norm
+| Norminette                                                                  | Autor       |
+| :-------------------------------------------------------------------------- | :---        |
+|[Norminette](https://github.com/42School/norminette)                         | `42 School` |
+
+###### Piscine
+| Mini Moulinette                                                             | Autor     |
+| :-------------------------------------------------------------------------- | :---      |
+| [Mini_Moulinette](https://github.com/k11q/mini-moulinette)                  | `k11q`    |
+
+###### Common Core
+| All-In-One Testers                                                          | Autor           |
+| :-------------------------------------------------------------------------- | :---            |
+| [francinette](https://github.com/xicodomingues/francinette)                 | `xicodomingues` |
+| [42-Cursus-Tester](https://github.com/Abaker-Hype/42-Cursus-Tester)         | `Abaker-Hype`   |
+| [42-Tests](https://github.com/Kwevan/42-Tests)                              | `Kwevan`        |
+
+| Libft                                                                  | Autor           |
+| :--------------------------------------------------------------------- | :---            |
+| [francinette](https://github.com/xicodomingues/francinette)            | `xicodomingues` |
+| [libftTester](https://github.com/Tripouille/libftTester)               | `Tripouille`    |
+| [libft_file_checker](https://github.com/Nuno-Jesus/libft_file_checker) | `Nuno-Jesus`    |
+| [libft-unit-test](https://github.com/alelievr/libft-unit-test)         | `alelievr`      | 
+| [Libftest](https://github.com/jtoty/Libftest)                          | `jtoty`         |
+| [libft-war-machine](https://github.com/0x050f/libft-war-machine)       | `0x050f`        |
+
+| Born2beRoot                                                            | Autor        |
+| :--------------------------------------------------------------------- | :---         |
+| [Born2BeRootTester](https://github.com/Pixailz/Born2BeRootTester)      | `Pixailz`    |
+| [Born2beroot-Tester](https://github.com/gemartin99/Born2beroot-Tester) | `gemartin99` |
+
+| Printf                                                                                               | Autor           |
+| :--------------------------------------------------------------------------------------------------- | :---            |
+| [Debugging with main.c](https://github.com/Kuninoto/42_ft_printf/blob/master/lvl_1_ft_printf/main.c) | `Kuninoto`      |
+| [francinette](https://github.com/xicodomingues/francinette)                                          | `xicodomingues` |
+| [printfTester](https://github.com/Tripouille/printfTester)                                           | `Tripouille`    |
+| [ft_printf_tester](https://github.com/paulo-santana/ft_printf_tester)                                | `paulo-santana` |
+
+| Get_next_line                                                     | Autor           |
+| :---------------------------------------------------------------- | :---            |
+| [francinette](https://github.com/xicodomingues/francinette)       | `xicodomingues` |
+| [gnlTester](https://github.com/Tripouille/gnlTester)              | `Tripouille`    |
+| [gnl-station-tester](https://github.com/kodpe/gnl-station-tester) | `kodpe`         |
+
+| Tester                                                           | Autor           |
+| :--------------------------------------------------------------- | :---            |
+| [francinette](https://github.com/xicodomingues/francinette)      | `xicodomingues` |
+| [minitalk-Tester](https://github.com/ThibaudM13/minitalk-Tester) | `ThibaudM13`    |
+
+| Pipex                                                             | Autor           |
+| :---------------------------------------------------------------- | :---            |
+| [pipexMedic](https://github.com/gmarcha/pipexMedic)               | `gmarcha`       |
+| [pipex-tester](https://github.com/vfurmane/pipex-tester)          | `vfurmane`      |
+| [PIPEX_TESTER](https://github.com/ael-bekk/PIPEX_TESTER)          | `ael-bekk`      |
+| [francinette](https://github.com/xicodomingues/francinette)       | `xicodomingues` |
+
+
+| So_Long                                                                  | User            |
+| :----------------------------------------------------------------------- | :---            |
+| [so_long_invalidator](https://github.com/Nuno-Jesus/so_long_invalidator) | `Nuno-Jesus`    |
+| [so_long_tester](https://github.com/augustobecker/so_long_tester)        | `augustobecker` |
+
+| Push Swap                                                                                                          | Autor        |
+| :----------------------------------------------------------------------------------------------------------------- | :---         |
+| [push_swap_visualizer](https://github.com/o-reo/push_swap_visualizer)                                              | `o-reo`      |
+| [push_swap_visualiser](https://github.com/Niimphu/push_swap_visualiser)                                            | `Niimphu`    |
+| [Push-Swap-Tester](https://github.com/gemartin99/Push-Swap-Tester)                                                 | `gemartin99` |
+| [push_swap_tester](https://github.com/laisarena/push_swap_tester)                                                  | `laisarena`  |
+| [push_swap_tester](https://github.com/SimonCROS/push_swap_tester) (benchmark)                                      | `SimonCROS`  |
+| [push_swap_leak_tester](https://github.com/IDC87/push_swap_leak_tester)                                            | `IDC87`      |
+| [Push Swap Visualizer and Number Generator](https://push-swap-visualizer.vercel.app)                               | `vercel`     |
+
+| Philosophers                                                                                | Autor         |
+| :------------------------------------------------------------------------------------------ | :---          | 
+| [philosophers-visualizer](https://nafuka11.github.io/philosophers-visualizer)               | `nafuka11`    |
+| [socrates](https://github.com/nesvoboda/socrates)                                           | `nesvoboda`   |
+| [philosophers_test](https://github.com/cacharle/philosophers_test)                          | `cacharle`    |
+| [Philosphers-42Project-Tester](https://github.com/newlinuxbot/Philosphers-42Project-Tester) | `newlinuxbot` |
+
+| Minishell                                                                 | Autor        |
+| :------------------------------------------------------------------------ | :---         |
+| [42_minishell_tester](https://github.com/zstenger93/42_minishell_tester)  | `zstenger93` |
+| [minishell_tester](https://github.com/thallard/minishell_tester)          | `thallard`   |
+| [mpanic](https://github.com/ChewyToast/mpanic)                            | `ChewyToast` |
+
+| cub3D                                                                                           | Autor            |
+| :---------------------------------------------------------------------------------------------- | :---             |
+| [cub3D_map_tester](https://github.com/humblEgo/cub3D_map_tester)                                | `humblEgo`       |
+| [42_cub_tester](https://github.com/realisticDonut/42_cub_tester)                                | `realisticDonut` |
+
+| minirt                                                                      | Autor       |
+| :-------------------------------------------------------------------------- | :---        |
+| [minirt_mesh_converter](https://github.com/matboivin/minirt_mesh_converter) | `matboivin` |
+
+| irc                                                                    | Autor          |
+| :--------------------------------------------------------------------- | :---           |
+| [irc-tester](https://github.com/bennamrouche/irc-tester)               | `bennamrouche` |
+
+</details>
+
+<details>
+<summary> Grademe</summary>
+
+![Grademe.fr](https://grademe.fr/)
+![Grademe Tutorial](https://github.com/JCluzet/42_EXAM)
+</details>
+
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
+
 ## My 42 Status <a href='https://profile.intra.42.fr/users/adamarqu' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 <details>
 <summary> Piscine </summary>
+<div align="center"> 
 
 | Project                                                                            | Score | Project                                                                            | Score |
 | ---                                                                                | ---   | ---                                                                                | ---   |
@@ -62,19 +175,22 @@ Whether you're a new student or already part of the community, the experience at
 | <a href="https://github.com/AdaoG0n/42_Piscine/tree/main/C Projects/C00">C00</a>     | <img src="https://img.shields.io/badge/85%20%2F%20100%20%E2%98%85-success" /> | <a href="https://github.com/AdaoG0n/42_Piscine/tree/main/C Projects/C05">C05</a>   | <img src="https://img.shields.io/badge/80%20%2F%20100%20%E2%98%85-success" /> |
 | <a href="https://github.com/AdaoG0n/42_Piscine/tree/main/C Projects/C01">C01</a>     | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> | <a href="https://github.com/AdaoG0n/42_Piscine/tree/main/C Projects/C06">C06</a>   | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
 | <a href="https://github.com/AdaoG0n/42_Piscine/tree/main/C Projects/C00">C02</a>     | <img src="https://img.shields.io/badge/75%20%2F%20100%20%E2%98%85-success" /> | <a href="https://github.com/AdaoG0n/42_Piscine/tree/main/C Projects/C07">C07</a>   | <img src="https://img.shields.io/badge/60%20%2F%20100%20%E2%98%85-success" /> |
-
+</div>
 </details>
 <details>
 <summary> Piscine Reload </summary>
-
+<div align="center"> 
+  
 | Project                                                                            | Score 
 | ---                                                                                | ---   
 | <a href="https://github.com/AdaoG0n/42_Piscine_Reload">Piscine Reload</a>   | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
 
+</div>
 </details>
 
 <details>
 <summary> Common Core </summary>
+<div align="center"> 
 
 | Project                                                         | Rank | Language                                                                       | Score                                                                          | Activity                                                                 |
 | ---                                                             | ---  | ---                                                                            | ---                                                                            | ---                                                                      |
@@ -82,13 +198,13 @@ Whether you're a new student or already part of the community, the experience at
 | <a href="https://github.com/AdaoG0n/42-FT_printf">FT_printf</a> | 1    | <img src="https://img.shields.io/github/languages/top/AdaoG0n/42-FT_printf" /> | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/AdaoG0n/42-FT_printf" /> |
 | <a href="https://github.com/AdaoG0n/42-get_next_line">get_next_line</a>| 1    | <img src="https://img.shields.io/github/languages/top/AdaoG0n/42-get_next_line" /> | <img src="https://img.shields.io/badge/0%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/AdaoG0n/42-get_next_line" /> |
 |<a href="https://github.com/AdaoG0n/42_Born2beroot">Born2beroot</a>| 1    | <img src="https://img.shields.io/github/languages/top/AdaoG0n/42_Born2beroot" /> | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/AdaoG0n/42_Born2beroot" /> |
-</details>
 </div>
+</details>
 
-![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
+
+<details>
+<summary> Repositories</summary>
 <div align="center"> 
-
-<img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/repositories.gif" width="400"/>
 
 <p float="left" align="center">
   <a href="https://github.com/AdaoG0n/42_Piscine">
@@ -118,6 +234,7 @@ Whether you're a new student or already part of the community, the experience at
 </p>
 
 </div>
+</details>
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 

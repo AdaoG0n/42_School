@@ -2,7 +2,7 @@
 </br>
 <div align="left"> 
   
-![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/AdaoG0nbar.gif)
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/42_school.gif)
 
 <details>
 <summary> About 42 School</summary>

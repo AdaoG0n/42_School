@@ -98,7 +98,7 @@ Whether you're a new student or already part of the community, the experience at
 | [gnlTester](https://github.com/Tripouille/gnlTester)              | `Tripouille`    |
 | [gnl-station-tester](https://github.com/kodpe/gnl-station-tester) | `kodpe`         |
 
-| Tester                                                           | Author           |
+| minitalk                                                         | Author           |
 | :--------------------------------------------------------------- | :---            |
 | [francinette](https://github.com/xicodomingues/francinette)      | `xicodomingues` |
 | [minitalk-Tester](https://github.com/ThibaudM13/minitalk-Tester) | `ThibaudM13`    |

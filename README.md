@@ -200,6 +200,7 @@ Whether you're a new student or already part of the community, the experience at
 |<a href="https://github.com/AdaoG0n/42_Born2beroot">Born2beroot</a>| 1    | <img src="https://img.shields.io/github/languages/top/AdaoG0n/42_Born2beroot" /> | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/AdaoG0n/42_Born2beroot" /> |
 |<a href="https://github.com/AdaoG0n/42_Push_swap">Push_Swap</a>| 2    | <img src="https://img.shields.io/github/languages/top/AdaoG0n/42_Push_swap" /> | <img src="https://img.shields.io/badge/0%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/AdaoG0n/42_Push_swap" /> |
 |<a href="https://github.com/AdaoG0n/minitalk">Minitalk</a>| 2    | <img src="https://img.shields.io/github/languages/top/AdaoG0n/minitalk" /> | <img src="https://img.shields.io/badge/0%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/AdaoG0n/minitalk" /> |
+<a href="https://github.com/AdaoG0n/so_long">So_long</a>| 2    | <img src="https://img.shields.io/github/languages/top/AdaoG0n/so_long" /> | <img src="https://img.shields.io/badge/0%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/AdaoG0n/so_long" /> |
 </details>
 
 

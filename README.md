@@ -234,6 +234,18 @@ Whether you're a new student or already part of the community, the experience at
     <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/getnext_line1.png" width="265"/>
   </a>
 </p>
+<p float="left" align="center">
+  <a href="https://github.com/AdaoG0n/minitalk">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/Minitalk.png" width="265"/>
+  </a>
+&nbsp;
+  <a href="https://github.com/AdaoG0n/so_long">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/so_long.png" width="265"/>
+  </a>
+&nbsp;
+  <a href="https://github.com/AdaoG0n/42_Push_swap">
+    <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/imagens%20repositorios%20fixas/pushswap.png" width="265"/>
+  </a>
 
 </div>
 </details>
